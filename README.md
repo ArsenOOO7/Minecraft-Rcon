@@ -1,3 +1,3 @@
 # Minecraft-Rcon
-"Библиотека" для RCON-управления.
-Simple Library for remote control.
+"Библиотека" для RCON-управления сервером.
+Simple Library for server's remote control.
